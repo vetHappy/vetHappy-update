@@ -1,2 +1,2 @@
-4.1
+5.0
 https://github.com/vetHappy/vetHappy-update/releases/download/v4.0/BMMOPD.exe
