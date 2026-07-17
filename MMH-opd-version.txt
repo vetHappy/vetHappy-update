@@ -1,1 +1,2 @@
-4.0
+4.1
+https://github.com/vetHappy/vetHappy-update/raw/refs/heads/main/Vet%20Happy%20OPD%20MMH.exe
