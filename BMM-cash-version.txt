@@ -1,2 +1,2 @@
-4.4.4
+4.4.5
 https://github.com/vetHappy/vetHappy-update/raw/refs/heads/main/Vet%20Happy%20Cash%20BMM.exe
